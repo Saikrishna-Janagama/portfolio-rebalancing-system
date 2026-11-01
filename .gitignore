@@ -1,0 +1,20 @@
+
+# Generated datasets and database
+output/
+*.sqlite
+*.sqlite3
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local environment variables
+.env
